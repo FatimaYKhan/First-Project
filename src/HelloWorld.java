@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        // to-do: commit this 
+        // to-do: commit this
         Scanner console = new Scanner(System.in);
         System.out.println("On what day of the month were you born?");
         int Date = console.nextInt();
